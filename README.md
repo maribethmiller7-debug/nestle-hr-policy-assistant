@@ -77,3 +77,8 @@ Through this project, I gained hands-on experience with:
 - Managing API credentials securely using environment variables.
 
 This project strengthened my understanding of how generative AI can be applied to real-world knowledge management and information-retrieval problems.
+## Application Demo
+
+The screenshot below demonstrates the Nestlé HR Policy Assistant answering a question using information retrieved from the HR policy document.
+
+![Nestlé HR Policy Assistant Demo](Nestle%20HR%20Policy%20Assistant%20chatbot.png)
